@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Teko&display=swap');
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-size: 10px;
+}
+
+body {
+  background-image: url('/src/assets/bg.svg');
+  color: #fff;
+  font-family: 'Teko', sans-serif;
+}
+
+h1 {
+  font-size: 6rem;
+  letter-spacing: 0.25rem;
+}
